@@ -1,4 +1,3 @@
-
 <h1 align="center">Hi there, I'm <span style="color:#4CAF50">Elgharib Balat</span>!</h1>
 <h3 align="center">.NET Developer | Backend Enthusiast | Computer Science Student</h3>
 
@@ -20,16 +19,16 @@
 
 ---
 
-## ًں§‘â€چًں’» About Me
+## 🧑‍💻 About Me
 
-- ًںژ“ Final-year Computer Science student at **Mansoura University**
-- ًں’¼ Passionate **.NET Developer** with experience in full-stack projects
-- ًںڑ€ Worked with **ASP.NET MVC**, **Web API**, and **SQL Server**
-- âœ¨ Always learning and building
+- 🎓 Final-year Computer Science student at **Mansoura University**
+- 💼 Passionate **.NET Developer** with experience in full-stack projects
+- 🚀 Worked with **ASP.NET MVC**, **Web API**, and **SQL Server**
+- ✨ Always learning and building
 
 ---
 
-## âڑ™ï¸ڈ Tech Stack
+## ⚙️ Tech Stack
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=cs,dotnet,html,css,git,github,visualstudio,sqlserver" />
@@ -37,7 +36,7 @@
 
 ---
 
-## ًں“ٹ GitHub Stats
+## 📊 GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ElgharibAhmed091&show_icons=true&theme=tokyonight" />
@@ -47,7 +46,7 @@
 
 ---
 
-## ًںڑ€ Featured Projects
+## 🚀 Featured Projects
 
 ### [Hotel Management System](https://github.com/ElgharibAhmed091/Hotel-Management-System)
 > Full hotel booking and admin dashboard app  
@@ -63,7 +62,7 @@
 
 ---
 
-## âœ¨ Let's Connect
+## ✨ Let's Connect
 
 - **Email:** ghbalat446@gmail.com  
 - **LinkedIn:** [linkedin.com/in/elgharib-balat-4256882b5](https://www.linkedin.com/in/elgharib-balat-4256882b5)  
