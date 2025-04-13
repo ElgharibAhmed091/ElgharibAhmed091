@@ -1,53 +1,90 @@
-<h1 align="center">Hi there, I'm Elgharib Balat</h1>
-<h3 align="center">.NET Developer | Computer Science Student | Backend Enthusiast</h3>
-
----
-
-## 🧑‍💻 About Me:
-
-- 🎓 Final-year student at **Mansoura University**, Faculty of Computers and Information  
-- 💻 Passionate about building scalable web apps using **ASP.NET MVC**, **Web API**, and **SQL Server**  
-- ⚡ Love clean code, learning new technologies, and solving real-world problems  
-- 📫 How to reach me:  
-  - [LinkedIn](https://www.linkedin.com/in/elgharib-balat-4256882b5)  
-  - [GitHub](https://github.com/ElgharibAhmed091)  
-  - Email: ghbalat446@gmail.com  
-
----
-
-## 🛠️ Tech Stack:
-
-- **Languages:** C#, HTML, CSS, LINQ  
-- **Frameworks:** ASP.NET MVC, Web API, Entity Framework  
-- **Database:** SQL Server  
-- **Tools:** Visual Studio, Git, GitHub  
-
----
-
-## 📈 GitHub Stats:
+<h1 align="center">Hey there! I'm <span style="color:#4CAF50">Elgharib Balat</span></h1>
+<h3 align="center">.NET Developer | Backend Enthusiast | Computer Science Student</h3>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ElgharibAhmed091&show_icons=true&theme=default" alt="stats" />
-  <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ElgharibAhmed091" alt="streak" />
+  <a href="https://www.linkedin.com/in/elgharib-balat-4256882b5">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://github.com/ElgharibAhmed091">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+  <a href="mailto:ghbalat446@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
 </p>
 
 ---
 
-## 🚀 Featured Projects:
+## 👨‍💻 About Me
 
-### [Hotel Management System](https://github.com/ElgharibAhmed091/Hotel-Management-System)
-- Full hotel app with booking, admin dashboard, and customer feedback.
-- **Tech Used:** ASP.NET MVC, Entity Framework, SQL Server
-
-### [Laptop E-commerce Website](https://github.com/ElgharibAhmed091/Laptop-Ecommerce)
-- Online store for electronics with cart, payment simulation, and product control.
-- **Tech Used:** ASP.NET MVC, Web API, SQL Server
-
-### [Food Products Website](https://github.com/ElgharibAhmed091/Food-Store)
-- E-commerce web app for food items with inventory and checkout system.
-- **Tech Used:** ASP.NET, SQL Server
+- 🎓 Final-year student at **Mansoura University**, Faculty of Computers and Information
+- 💼 Aspiring **.NET Developer** specialized in full-stack development
+- 🚀 Built real-world apps using `ASP.NET MVC`, `Web API`, and `SQL Server`
+- 🌱 Currently improving my skills in clean architecture and system design
+- 🤝 Open to internships, part-time, or full-time junior roles
 
 ---
 
-### Ready to join a team where I can learn, grow, and contribute!
+## ⚙️ Tech Stack
+
+<div align="center">
+
+| Languages | Frameworks | Database | Tools |
+|----------|------------|----------|-------|
+| `C#` `HTML` `CSS` `LINQ` | `ASP.NET MVC` `Web API` `Entity Framework` | `SQL Server` | `Visual Studio` `Git` `GitHub` |
+
+</div>
+
+---
+
+## 🔥 GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ElgharibAhmed091&show_icons=true&theme=default" />
+  <br>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=ElgharibAhmed091&theme=default" />
+</div>
+
+---
+
+## 🚀 Featured Projects
+
+### [Hotel Management System](https://github.com/ElgharibAhmed091/Hotel-Management-System)
+> A full-featured hotel booking system with user/customer modules, admin dashboard, and data management.
+
+**Tech Stack:** ASP.NET MVC, Entity Framework, SQL Server  
+**Highlights:**  
+- Admin panel for managing rooms and bookings  
+- Customer reviews and dynamic availability system  
+
+---
+
+### [Laptop E-commerce Website](https://github.com/ElgharibAhmed091/Laptop-Ecommerce)
+> A responsive e-commerce platform for electronic products.
+
+**Tech Stack:** ASP.NET MVC, Web API, SQL Server  
+**Highlights:**  
+- Shopping cart and product listing  
+- Inventory tracking and checkout simulation  
+
+---
+
+### [Food Products Website](https://github.com/ElgharibAhmed091/Food-Store)
+> A modern web application for ordering food online.
+
+**Tech Stack:** ASP.NET, SQL Server  
+**Highlights:**  
+- Item management, real-time order system  
+- Admin and customer interfaces  
+
+---
+
+## ✨ Let's Connect
+
+- **Email:** ghbalat446@gmail.com  
+- **LinkedIn:** [linkedin.com/in/elgharib-balat-4256882b5](https://www.linkedin.com/in/elgharib-balat-4256882b5)  
+- **GitHub:** [github.com/ElgharibAhmed091](https://github.com/ElgharibAhmed091)
+
+---
+
+<p align="center">"Code is like humor. When you have to explain it, it’s bad." – Cory House</p>
